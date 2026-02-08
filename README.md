@@ -22,6 +22,6 @@ Embedded Linux · Power electronics · PCB design
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elektricM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elektricM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elektricM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&hide=html,css)
 
 </div>
