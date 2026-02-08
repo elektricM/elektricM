@@ -13,4 +13,5 @@ TP4056 + SX1308 · LiPo charging + 5V boost
 
 ---
 
-Embedded Linux · Power electronics · PCB design · On-device ML
+C++ · C · JavaScript · Shell  
+Embedded Linux · Power electronics · PCB design
