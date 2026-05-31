@@ -9,9 +9,9 @@ TensorFlow Lite on microcontroller
 **[nwpi](https://github.com/elektricM/nwpi)** — Power module PCB for numworks-pi  
 TP4056 + SX1308 · LiPo charging + 5V boost
 
-**[amd-bc250-docs](https://github.com/elektricM/amd-bc250-docs)** — Community docs for handheld gaming PC
+**[amd-bc250-docs](https://github.com/elektricM/amd-bc250-docs)** — Community docs for repurposed mining board
 
 ---
 
-C++ · C · Python · JavaScript · Rust · Shell  
+C++ · C · Go · Rust · JavaScript· Shell  
 Embedded Linux · Power electronics · PCB design
